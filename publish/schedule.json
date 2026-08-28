@@ -1,6 +1,6 @@
 [
-  { "publishDate": "2026-08-27", "items": [ {"key":"B1","dateLabel":"2026-08-26"}, {"key":"B2","dateLabel":"2026-08-26"}, {"key":"B3","dateLabel":"2026-08-26"} ] },
-  { "publishDate": "2026-08-28", "items": [ {"key":"B1","dateLabel":"2026-08-27"}, {"key":"B2","dateLabel":"2026-08-27"}, {"key":"B3","dateLabel":"2026-08-27"} ] },
-  { "publishDate": "2026-08-29", "items": [ {"key":"B1","dateLabel":"2026-08-28"}, {"key":"B2","dateLabel":"2026-08-28"}, {"key":"B3","dateLabel":"2026-08-28"} ] },
-  { "publishDate": "2026-08-30", "items": [ {"key":"B1","dateLabel":"2026-08-29"}, {"key":"B2","dateLabel":"2026-08-29"}, {"key":"B3","dateLabel":"2026-08-29"} ] }
+  { "publishDate": "2026-08-29", "items": [ {"key":"B1","dateLabel":"2026-08-26"}, {"key":"B2","dateLabel":"2026-08-26"}, {"key":"B3","dateLabel":"2026-08-26"} ] },
+  { "publishDate": "2026-08-30", "items": [ {"key":"B1","dateLabel":"2026-08-28"}, {"key":"B2","dateLabel":"2026-08-27"}, {"key":"B3","dateLabel":"2026-08-28"} ] },
+  { "publishDate": "2026-08-31", "items": [ {"key":"B1","dateLabel":"2026-08-29"}, {"key":"B2","dateLabel":"2026-08-28"}, {"key":"B3","dateLabel":"2026-08-29"} ] },
+  { "publishDate": "2026-09-01", "items": [ {"key":"B2","dateLabel":"2026-08-29"} ] }
 ]
